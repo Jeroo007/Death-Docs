@@ -1,10 +1,6 @@
 # Utility Commands
 
-<p align="center">
-  <img src="../assets/images/utility-commands.png" alt="Utility commands visual" width="90%" />
-</p>
-
-## macOS Terminal Style
+<div align="center"><img src="../.gitbook/assets/utility-commands.png" alt="Utility commands visual" width="90%"></div>
 
 **Terminal — Utility**
 
@@ -20,12 +16,12 @@
 
 ## Common Utility Commands
 
-| Command | Purpose |
-|---|---|
-| `>ping` | Show bot latency |
-| `>botinfo` | Show bot details |
-| `>serverinfo` | Show server details |
-| `>userinfo @user` | Show user details |
-| `>avatar @user` | Show avatar |
-| `>invite` | Show invite link |
-| `>support` | Show support server |
+| Command           | Purpose             |
+| ----------------- | ------------------- |
+| `>ping`           | Show bot latency    |
+| `>botinfo`        | Show bot details    |
+| `>serverinfo`     | Show server details |
+| `>userinfo @user` | Show user details   |
+| `>avatar @user`   | Show avatar         |
+| `>invite`         | Show invite link    |
+| `>support`        | Show support server |

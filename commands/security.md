@@ -1,15 +1,11 @@
 # Security Commands
 
-<p align="center">
-  <img src="../assets/images/security-commands.png" alt="Security commands visual" width="90%" />
-</p>
-
-## macOS Terminal Style
+<div align="center"><img src="../.gitbook/assets/59734840-8bcc-47c4-84e8-06224cf3b7d3.png" alt="Security commands visual"></div>
 
 **Terminal — Security Setup**
 
 ```bash
->help security
+>help
 >antinuke enable
 >antinuke punishment quarantine
 >antiraid enable
@@ -20,17 +16,18 @@
 
 ## Common Security Commands
 
-| Command | Purpose |
-|---|---|
-| `>help security` | Show security help |
-| `>antinuke enable` | Enable anti-nuke |
-| `>antinuke punishment quarantine` | Set punishment |
-| `>antiraid enable` | Enable anti-raid |
-| `>automod links on` | Block malicious links |
-| `>automod spam on` | Enable anti-spam |
-| `>logs set security #channel` | Set security log channel |
+| Command                           | Purpose                  |
+| --------------------------------- | ------------------------ |
+| `>help`                           | Show security help       |
+| `>antinuke enable`                | Enable anti-nuke         |
+| `>antinuke punishment quarantine` | Set punishment           |
+| `>antiraid enable`                | Enable anti-raid         |
+| `>automod links on`               | Block malicious links    |
+| `>automod spam on`                | Enable anti-spam         |
+| `>logs set security #channel`     | Set security log channel |
 
 <details>
+
 <summary><strong>Copy-ready block</strong></summary>
 
 ```bash

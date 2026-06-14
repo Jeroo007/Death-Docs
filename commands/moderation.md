@@ -1,10 +1,6 @@
 # Moderation Commands
 
-<p align="center">
-  <img src="../assets/images/moderation-commands.png" alt="Moderation commands visual" width="90%" />
-</p>
-
-## macOS Terminal Style
+<div align="center"><img src="../.gitbook/assets/moderation-commands.png" alt="Moderation commands visual" width="90%"></div>
 
 **Terminal — Moderation**
 
@@ -22,14 +18,14 @@
 
 ## Common Moderation Commands
 
-| Command | Purpose |
-|---|---|
-| `>ban @user reason` | Ban a member |
-| `>kick @user reason` | Kick a member |
-| `>timeout @user 10m reason` | Timeout a user |
-| `>untimeout @user` | Remove timeout |
-| `>warn @user reason` | Warn a user |
-| `>warnings @user` | View warnings |
-| `>clear 10` | Delete messages |
-| `>lock` | Lock a channel |
-| `>unlock` | Unlock a channel |
+| Command                     | Purpose                       |
+| --------------------------- | ----------------------------- |
+| `>ban @user reason`         | Ban a member                  |
+| `>kick @user reason`        | Kick a member                 |
+| `>timeout @user 10m reason` | Timeout a user                |
+| `>untimeout @user`          | Remove timeout                |
+| `>warn @user reason`        | Warn a user                   |
+| `>warnings @user`           | View warnings                 |
+| `>purge 10`                 | Delete messages               |
+| `>vclock`                   | Lock a voice channel          |
+| `>vcunlock`                 | Unlock a locked voice channel |
