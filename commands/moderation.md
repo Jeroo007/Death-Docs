@@ -27,5 +27,5 @@
 | `>warn @user reason`        | Warn a user                   |
 | `>warnings @user`           | View warnings                 |
 | `>purge 10`                 | Delete messages               |
-| `>vclock`                   | Lock a voice channel          |
-| `>vcunlock`                 | Unlock a locked voice channel |
+| `>voice lock`               | Lock a voice channel          |
+| `>voice unlock`             | Unlock a locked voice channel |
